@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+  ('hamlet', '2019-04-03 07:00:00', 'something about hamlet'),
+  ('dogs', '2019-03-03 07:00:00', 'a blog about dogs'),
+  ('rum', '2019-02-10 06:30:00', 'my favorite rum'),
+  ('tea', '2019-02-03 07:00:00', 'my favorite tea'),
+  ('Sweden', '2019-02-02 07:00:00', 'something about Sweden'),
+  ('Biology', '2019-02-01 07:00:00', 'life'),
+  ('More nonsense', '2019-01-03 07:00:00', 'writing gibberish'),
+  ('well now', '2019-01-02 07:00:00', 'something else'),
+  ('think of something', '2019-01-01 07:00:00', 'something'),
+  ('chicken', '2018-04-03 01:05:00', 'chicken dishes'),
+  ('ham', '2018-03-03 07:00:00', 'ham dishes'),
+  ('politics', '2018-03-02 07:00:00', 'politics dishes'),
+  ('donkey', '2018-02-01 07:00:00', 'blue'),
+  ('elephant', '2018-01-13 12:20:00', 'red'),
+  ('story of my life', '2018-01-10 07:00:00', 'lots to say'),
+  ('story of your life', '2018-01-09 07:00:00', 'more to say'),
+  ('story of a dog', '2018-01-03 07:00:00', 'woof'),
+  ('almost done', '2017-04-03 08:45:00', 'the end is near'),
+  ('casi', '2017-04-02 07:21:29', 'almost there..'),
+  ('the end', '2017-04-01 07:54:32', 'my ramblings are over');
